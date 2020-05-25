@@ -1,0 +1,4 @@
+git clone <url>
+git add <file>
+git commit -m "msg"
+git push -u origin master
